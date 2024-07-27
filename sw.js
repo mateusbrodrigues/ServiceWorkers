@@ -10,6 +10,9 @@ self.addEventListener('activate', () => {
 
 self.addEventListener('fetch', (event) => {
   console.log(`[Service Worker] fetch event lifecycle!`);
-  console.log(event.request.url);
+  const url = new URL(event.request.url);
+  if (url.pathname === '/images/dog.svg') {
+    event.respondWith(fetch('/images/cat.svg'));
+  }
   event.respondWith(fetch(event.request));
 });
