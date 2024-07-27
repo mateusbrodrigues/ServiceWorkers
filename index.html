@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML5 Service Worker</title>
+    <!-- Fluid viewport -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.fluid.classless.min.css"
+    />
+    <script type="module" src="app.js"></script>
+  </head>
+  <body>
+    <main>
+      <form onsubmit="return false;">
+        <fieldset role="group">
+          <input
+            type="text"
+            name="cep"
+            placeholder="Enter your CEP"
+            required
+            pattern="\d{5}-?\d{3}"
+            autocomplete="off"
+          />
+          <button type="submit">Get</button>
+        </fieldset>
+      </form>
+      <p>
+        *
+        <a href="#" onclick="return false;">Install data locally</a>
+        so you can search CEP offline.
+      </p>
+      <table>
+        <tbody>
+          <tr>
+            <th>Zip Code</th>
+            <td id="zipCode"></td>
+          </tr>
+          <tr>
+            <th>State</th>
+            <td id="state"></td>
+          </tr>
+          <tr>
+            <th>Location</th>
+            <td id="location"></td>
+          </tr>
+          <tr>
+            <th>Place</th>
+            <td id="publicPlace"></td>
+          </tr>
+          <tr>
+            <th>Neighborhood</th>
+            <td id="neighborhood"></td>
+          </tr>
+        </tbody>
+      </table>
+    </main>
+  </body>
+</html>

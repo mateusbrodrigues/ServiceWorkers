@@ -1,0 +1,1000 @@
+MG;Araxá;Loteamento Max Newmann;38180483;Rua Geraldo RodrIgues Filho
+ES;Colatina;Bela Vista;29700865;Rua Muniz Freire
+MT;Rondonópolis;Vila São Sebastião I;78730244;Rua das Mangueiras - até 255/256
+DF;Brasília;Asa Sul;70237520;CLS 403 Bloco B
+DF;Brasília;Setor Sudoeste;70680568;CCSW 5 Lote 3 Bloco 3B
+MG;Araxá;Loteamento Max Newmann;38180296;Rua Maria José Feres
+ES;Colatina;Por do Sol;29700683;Rua Muniz Freire
+SC;Tubarão;Morrotes;88704180;Rua Cândido Darela - até 256/257
+DF;Brasília;Asa Sul;70237540;CLS 403 Bloco D
+DF;Brasília;Setor Sudoeste;70680579;CCSW 5 Lote 4
+MG;Araxá;Loteamento Max Newmann;38180298;Rua Rogério Lídio
+ES;Vitória;São Cristóvão;29048475;Rua Manoel Simões Freire
+SC;Canoinhas;Tricolin;89462190;Rua Antônio Liller - até 256 - lado par
+DF;Brasília;Asa Sul;70252010;SQS 206 Bloco A
+DF;Brasília;Setor Noroeste;70686655;CLNW 10/11 Lote K
+MG;Araxá;Loteamento Max Newmann;38180295;Rua Sebastião Maneira Rodrigues
+MG;Teófilo Otoni;Bela Vista;39800550;Rua Antônio Caldeira Freire
+SP;Artur Nogueira;Egydio Tagliari;13163332;Rua Alberto Boer - até 256 - lado par
+DF;Brasília;Asa Sul;70252020;SQS 206 Bloco B
+DF;Brasília;Setor Noroeste;70683465;CLNW 4/5 Lote B
+MG;Araxá;Loteamento Max Newmann;38180452;Rua Vereador Sebastião Xeleco
+MG;Teófilo Otoni;Bela Vista;39800504;Rua Judith Soriano Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993090;SHA Conjunto 1 Chácara 20
+DF;Brasília;Asa Sul;70237160;SQS 403 Bloco P
+DF;Brasília;Setor Noroeste;70683470;CLNW 4/5 Lote C
+SP;São Carlos;Vila Max;13567192;Rua Antonio Serafim Marinheiro
+PB;João Pessoa;Tambauzinho;58042250;Avenida Capitão João Freire - de 812/813 ao fim
+DF;Brasília;Área de Desenvolvimento Econômico (Águas Claras);71989300;ADE Conjunto 20
+DF;Brasília;Asa Sul;70239080;SQS 405 Bloco H
+DF;Brasília;Setor Noroeste;70683480;CLNW 4/5 Lote E
+AM;Manaus;Nossa Senhora das Graças;69053480;Rua Máximo dos Santos
+PB;João Pessoa;Expedicionários;58041000;Avenida Júlia Freire - de 1183/1184 a 2231/2232
+MG;Alfenas;São Vicente;37132030;Rua Salomão Barroso - de 160 a 440 - lado par
+DF;Brasília;Asa Sul;70252060;SQS 206 Bloco F
+DF;Brasília;Setor Noroeste;70683485;CLNW 4/5 Lote F
+ES;Serra;Praia de Carapebus;29164477;Rua Máximo Vieira Varejão
+PB;João Pessoa;Torre;58040065;Travessa Júlia Freire
+PR;Arapongas;Vila Triângulo;86709224;Rua Tangará - de 160/161 a 699/700
+DF;Brasília;Asa Sul;70253110;SQS 207 Bloco K
+DF;Brasília;Setor Noroeste;70686280;CLNW 8/9 Lote C
+MG;Barbacena;João Paulo II;36202748;Rua Máximo Santarosa
+PE;Olinda;Casa Caiada;53030625;Avenida Ministro Marcos Freire - de 3001 a 4499 - lado ímpar
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993050;SHA Conjunto 1 Chácara 8
+DF;Brasília;Asa Sul;70253510;CLS 207 Bloco A
+DF;Brasília;Setor Noroeste;70686300;CLNW 8/9 Lote E
+MG;Ipatinga;Bom Jardim;35162283;Rua Máximo Rosa Gomes
+PE;Paulista;Fragoso;53402470;Rua Paulo Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993065;SHA Conjunto 1 Chácara 11
+AL;Arapiraca;Alto do Cruzeiro;57312250;Rua Vereador Domingos Vital
+DF;Brasília;Setor Noroeste;70686310;CLNW 8/9 Lote F
+MG;Pará de Minas;Torneiros;35662742;Rua João Máximo
+PE;Santa Cruz do Capibaribe;Malaquias Cardoso;55190834;Rua Professor Paulo Freire (Lot Pedra Branca)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993085;SHA Conjunto 1 Chácara 15
+AL;Arapiraca;Canafístula;57302760;Rua Vital Curi
+DF;Brasília;Setor Noroeste;70686340;CLNW 8/9 Lote I
+RJ;Saquarema;Itaúna;28990822;Rua Antônio Máximo
+SE;Aracaju;Luzia;49045843;Rua Hamilton Monteiro Freire
+DF;Brasília;Área de Desenvolvimento Econômico (Águas Claras);71991720;ADE Conjunto 31
+MG;Ribeirão das Neves;São Pedro;33805559;Rua Vital Augusto Guimarães
+DF;Brasília;Setor Noroeste;70686360;CLNW 8/9 Lote K
+RS;Vacaria;Chacará das Palmeiras;95211554;Rua Professor Máximo Sussela
+SP;Caçapava;Vila Resende;12282360;Rua Ezequiel Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993010;SHA Conjunto 1
+PR;Londrina;Tarobá;86042460;Rua Vital Muniz de Aquino
+DF;Brasília;Setor Noroeste;70684585;CRNW 703 Lote A
+SP;Mococa;Residencial Mais Parque Mococa;13735374;Rua Maria José Máximo
+SP;Campinas;Bananal;13099008;Rua Sônia Barreto Tupynambá Freire
+DF;Brasília;Área de Desenvolvimento Econômico (Águas Claras);71990720;ADE Conjunto 26
+SP;Campinas;Jardim do Lago;13050017;Rua Engenheiro Vital Vettorazzo
+DF;Brasília;Setor Noroeste;70684635;CRNW 704 Lote A
+SP;Sumaré;Jardim Primavera;13173080;Rua Máximo Marson
+SP;Guarulhos;Parque Continental II;07084220;Rua Paulo Freire
+DF;Brasília;Área de Desenvolvimento Econômico (Águas Claras);71990180;ADE Conjunto 23
+SP;Santa Bárbara D'Oeste;Centro Industrial e Tecnológico de Santa Bárbara D'Oeste;13459626;Rua Bárbara Rosa Vital
+DF;Brasília;Setor Noroeste;70684640;CRNW 704 Lote B
+SP;Valinhos;Jardim Santa Rosa;13275090;Rua Máximo Piton
+SP;Penápolis;Parque Residencial Santa Leonor;16306600;Rua Educador Paulo Freire
+DF;Brasília;Área de Desenvolvimento Econômico (Águas Claras);71986540;ADE Conjunto 8
+SP;Santa Bárbara D'Oeste;Vila Siqueira Campos;13451032;Rua Vital de Negreiros
+DF;Brasília;Setor Noroeste;70684760;CRNW 706 Lote B
+MA;São Luís;Bom Jesus;65042888;Rua Maximiliano Nogueira
+SP;São José dos Campos;Campos de São José;12226590;Rua Dejanira de Paula Freire
+DF;Brasília;Área de Desenvolvimento Econômico (Águas Claras);71987180;ADE Conjunto 5
+AL;Arapiraca;Nova Esperança;57316400;Rua Carlos Alberto Vital
+DF;Brasília;Setor Noroeste;70684765;CRNW 706 Lote C
+PB;João Pessoa;Mangabeira;58058450;Rua Maxsuel Olegário Targino Cruz de Lima
+SP;São José dos Campos;Jardim Limoeiro;12241350;Rua Hélio José Bertolini Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993015;SHA Conjunto 1 Chácara 1
+AL;Arapiraca;Nova Esperança;57316405;Rua José Augusto Vital
+DF;Brasília;Setor Noroeste;70684770;CRNW 706 Lote D
+AM;Manaus;Tarumã-Açu;69022364;Rua Maxixe
+AL;Arapiraca;Baixa Grande;57307080;Rua Noel Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993215;SHA Conjunto 1 Chácara 62
+BA;Vitória da Conquista;Ibirapuera;45075630;Rua Frei Vital
+DF;Brasília;Setor Noroeste;70688360;CRNW 707 Lote A
+AP;Macapá;Novo Buritizal;68904090;Avenida Maximiniano Serra Picanço
+BA;Feira de Santana;Centro;44002192;Rua Intendente Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993230;SHA Conjunto 1 Chácara 65
+CE;Fortaleza;Granja Portugal;60541498;Travessa Vital Brasil
+DF;Brasília;Setor Noroeste;70688390;CRNW 707 Lote D
+BA;Salvador;Mata Escura;41219720;1ª Travessa Maria Maximiniana
+BA;Itabuna;Sarinha Alcântara;45608050;Rua Corbiniano Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993225;SHA Conjunto 1 Chácara 64
+ES;Vila Velha;Boa Vista II;29107368;Rua Vital Brasil
+DF;Brasília;Setor Noroeste;70688420;CRNW 707 Lote G
+ES;Cachoeiro de Itapemirim;Nossa Senhora Aparecida;29306749;Escadaria Enzo Máximo de Oliveira
+MG;Montes Claros;Augusta Mota;39403441;Avenida Corinto Crisóstomo Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993150;SHA Conjunto 1 Chácara 44C
+ES;Vila Velha;Residencial Coqueiral;29102700;Rua Vital Brasil
+DF;Brasília;Setor Noroeste;70688750;CRNW 710 Lote E
+ES;Cariacica;Prolar;29156355;Rua Manoel Máximo Pereira
+MG;Montes Claros;Morada do Parque;39401365;Avenida Corinto Crisóstomo Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993155;SHA Conjunto 1 Chácara 50
+ES;Vila Velha;Soteco;29106025;Rua Vital Brasil
+DF;Brasília;Setor Noroeste;70688760;CRNW 710 Lote F
+MG;Muriaé;João VI;36883279;Rua José Máximo Ribeiro
+MG;Teófilo Otoni;Novo Horizonte;39800586;Rua Daniel Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993525;SHA Conjunto 3 Chácara 7
+GO;Goiânia;Rodoviário;74430200;Avenida Dom Vital
+DF;Brasília;Setor Noroeste;70684805;EQNW 706/707 Lote A
+MG;Sete Lagoas;Nossa Senhora de Lourdes;35703085;Rua Geraldo Máximo Pereira
+PB;João Pessoa;Cuiá;58077270;Rua Universitário Marconi Rodrigues Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993540;SHA Conjunto 3 Chácara 33
+MA;São Luís;Centro;65010320;Rua João Vital
+DF;Brasília;Setor Noroeste;70688850;EQNW 710/711 Lote A
+PA;Castanhal;São José;68744229;Rua Maximino Nonato Bizerra
+PB;Santa Rita;Municípios;58303270;Rua Antônio Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993170;SHA Conjunto 1 Chácara 56B
+MG;Araxá;Pedra Azul;38181721;Rua Vital de Azevedo
+DF;Brasília;Guará II;71060632;QI 23 Lote 2/6 Edifício Guará Nobre
+PA;Castanhal;Titanlândia;68741560;Travessa Maximino Barros Monteiro
+PB;Sousa;Gato Preto;58802060;Rua Bento Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993365;SHA Conjunto 2 Chácara 53C
+MG;Divinópolis;Esplanada;35501014;Rua Vital Brasil
+DF;Brasília;Guará II;71060631;QI 23 Lote 3 Edifício Milão
+PE;Gravatá;Campos do Jordão;55640548;Rua Francisco Maximo Saraiva
+PE;Recife;Pina;51110330;Rua Freire de Andrade
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993385;SHA Conjunto 2 Chácara 54C
+PB;João Pessoa;Valentina de Figueiredo;58064345;Rua Vital Brasil
+DF;Brasília;Guará II;71060256;QI 25 Lote 6 Edifício Res. Gardem
+PE;Gravatá;Campos do Jordão;55640550;2ª Paralela Francisco Maximo Saraiva
+RJ;Nova Iguaçu;Marapicu;26295045;Rua Gomes Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993120;SHA Conjunto 1 Chácara 25
+PE;Garanhuns;Novo Heliópolis;55297210;Rua Vital Brasil
+DF;Brasília;Guará II;71060271;QI 27 Lote 1
+PE;Gravatá;Campos do Jordão;55640552;2ª Travessa Francisco Maximo Saraiva
+SP;Atibaia;Vila Santista;12941060;Rua Deoclides Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993520;SHA Conjunto 3 Chácara 3
+PE;Gravatá;Prado;55642080;Rua Dom Vital
+DF;Brasília;Guará II;71060275;QI 27 Lote 5
+RS;Vacaria;Kennedy;95211322;Rua Carlos Maximo Golin Paim - até 249/250
+SP;Hortolândia;Jardim das Laranjeiras;13184711;Rua Pedro Ferreira Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993310;SHA Conjunto 2
+PI;Parnaíba;Santa Isabel;64201495;Rua Antonio Vital
+DF;Brasília;Setor Sudoeste;70680406;QMSW 4 Lote 2
+SC;Araranguá;Lagoa da Serra;88906250;Rua Bernadino Máximo da Silva
+SP;Marília;Núcleo Habitacional Presidente Jânio da Silva Quadros;17511754;Rua Edmundo da Silva Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993745;SHA Conjunto 3 Chácara 65B
+PR;Londrina;Jardim Kase;86026360;Rua Vital Brasil
+DF;Brasília;Setor Sudoeste;70680409;QMSW 4 Lote 3
+SC;Jaraguá do Sul;Vila Baependi;89256010;Rua Maximiliano Hiendlmayer
+SP;São José dos Campos;Centro;12209660;Travessa Joaquim Freire
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993740;SHA Conjunto 3 Chácara 65A
+RN;Natal;Cidade Alta;59025380;Praça Dom Vital
+DF;Brasília;Setor Sudoeste;70680542;QMSW 5 Lote 10 Bloco B
+SC;São Bento do Sul;Dona Francisca;89284685;Rua Maximiano Eichendorf
+ES;Aracruz;Nova Conquista;29192812;Rua Milton Freire da Rocha
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993750;SHA Conjunto 3 Chácara 66A
+RN;Natal;Lagoa Azul;59139325;Rua Vital Brasil
+DF;Brasília;Setor Sudoeste;70680507;QMSW 5 Lote 2 Bloco C
+SP;Araras;Jardim Universitário;13607339;Avenida Doutor Maximiliano Baruto
+ES;Cariacica;Santa Bárbara;29145210;Rua Manoel Freire Correa
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993775;SHA Conjunto 3 Chácara 78
+RN;Natal;Potengi;59110430;Rua Vital Ramos
+DF;Brasília;Setor Sudoeste;70680514;QMSW 5 Lote 3 Bloco E
+SP;Campinas;Cidade Universitária;13083100;Rua Giuseppe Máximo Scolfaro
+ES;Cariacica;Campo Belo;29143065;Rua Manoel Freire de Assis
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993575;SHA Conjunto 3 Chácara 41
+SC;Gaspar;Alto Gasparinho;89112872;Rua Vital Benevenutt
+DF;Brasília;Setor Sudoeste;70680531;QMSW 5 Lote 7 Bloco F
+SP;Franca;Prolongamento Vila Santa Cruz;14403630;Rua Cândido Máximo Balieiro
+PE;Arcoverde;Cidade Jardim;56507375;Rua Mário da Cruz Ribeiro (Lot Maria de Fátima Freire)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993574;SHA Conjunto 3 Chácara 40B
+SC;Joinville;América;89204363;Rua Vital Brasil
+DF;Brasília;Setor Sudoeste;70680603;QMSW 6 Lote 1
+SP;Mococa;Jardim Chico Piscina;13736490;Rua Maximiliano Adreoli
+PE;Paulista;Engenho Maranguape;53423466;Rua E (Vl Marcos Freire)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993580;SHA Conjunto 3 Chácara 42
+SE;Aracaju;América;49080315;Travessa Vital Brasil
+DF;Brasília;Setor Sudoeste;70680627;QMSW 6 Lote 7
+SP;Mogi Guaçu;Loteamento Parque Real Guaçu;13845074;Travessa Sebastião Maximiniano
+RJ;São Pedro da Aldeia;Santo Antônio;28948339;Rua Comandante Ney Freire Correa
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993655;SHA Conjunto 3 Chácara 56C
+SP;Limeira;Parque das Nações;13481006;Rua Vital Brasil Rodrigues Aguiar
+DF;Brasília;Asa Sul;70390127;SEPS 712/912 Lote B
+SP;Porto Ferreira;Jardim Sérgio Dornelles de Carvalho;13664260;Rua Antonio Maximiano
+SP;Hortolândia;Jardim Novo Cambuí;13187200;Rua Felício Freire de Oliveira
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993660;SHA Conjunto 3 Chácara 57A
+SP;Piracicaba;Areião;13414044;Avenida Vital Brasil
+DF;Brasília;Setores Complementares;70610053;SMAS Trecho 3 Lote 3
+MG;Alfenas;Residencial Alda Caetani;37132136;Rua Sílvia Máxima Corrêa
+BA;Itabuna;Corbiniano Freire;45602590;Rua Senhor dos Passos - até 858/859
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993825;SHA Conjunto 3 Chácara 104
+SP;Piracicaba;Vila Pacaembu;13424580;Rua Frei Vital Primeiro
+DF;Brasília;Setores Complementares;70610058;SMAS Trecho 3 Lote 8
+RN;Parnamirim;Pium (Distrito Litoral);59160752;1ª Travessa Manoel Maximiliano da Costa
+MG;Teófilo Otoni;Conjunto Paulo Freire;39803658;Travessa Celso Daniel
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993560;SHA Conjunto 3 Chácara 35B
+SP;Salto;Jardim São Francisco;13320490;Rua Vital Brasil
+DF;Brasília;Setores Complementares;70610078;SMAS Trecho 4 Lote 6/8
+SC;São Bento do Sul;Progresso;89281447;Servidão Paulo Maximiliano Selke
+MG;Uberaba;Conjunto Alfredo Freire;38056370;Rua Vicente Gonçalves Borges
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993620;SHA Conjunto 3 Chácara 49C
+SP;São José dos Campos;Jardim Esplanada II;12242720;Rua Vital Brasil
+DF;Brasília;Setores Complementares;70610079;SMAS Trecho 4 Lote 6/9
+GO;Jataí;Vila Jardim Maximiano Peres;75800123;Rua Almeida
+PB;João Pessoa;Ernesto Geisel;58075350;Rua Pedro Freire de Mendonça
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993665;SHA Conjunto 3 Chácara 57B
+SP;Valinhos;Vila Embaré;13271190;Rua Vital Brasil
+GO;Santo Antônio do Descoberto;Meu Lote Minha Casa;72902052;Quadra 1
+SC;Florianópolis;Ingleses do Rio Vermelho;88058757;Servidão Agemiro Maximiano da Silva
+PE;Jaboatão dos Guararapes;Marcos Freire;54360079;Travessa do Forte das Cinco Pontas
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993695;SHA Conjunto 3 Chácara 61A
+AL;Arapiraca;Boa Vista;57303244;Rua Maria Silvânia Vital da Silva (Res Da Carmélia)
+GO;Santo Antônio do Descoberto;Meu Lote Minha Casa;72902056;Quadra 3
+MG;Janaúba;Barbosas;39440576;Rua Francisco Barbosa
+RJ;São Pedro da Aldeia;Centro;28941110;Rua Hermógenes Freire da Costa
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993730;SHA Conjunto 3 Chácara 64A
+AL;Arapiraca;Senador Arnon de Melo;57315756;Rua Terezinha de Jesus Vital Gomes
+DF;Brasília;Park Way;71745806;SMPW Quadra 28 Conjunto 6
+MG;Janaúba;Barbosas;39440492;Travessa Luzia Pereira dos Santos
+SP;Araraquara;Jardim Paulo Freire;14804296;Rua Doutor Aldo Benedito Pierri
+SP;Guarulhos;Jardim Odete;07144001;Rua Francisco de Paula Pereira Pacheco
+AL;Maceió;Jacintinho;57040110;Travessa Higino Vital da Silva
+DF;Brasília;Park Way;71746000;SMPW Quadra 29
+MG;Janaúba;Gameleira;39442186;Rua Aurora
+SP;Campinas;Joaquim Egídio;13108048;Rua Professora Consuelo Freire Brandão
+SP;Caieiras;Nova Caieiras;07704206;Rua Zelinda Piffer Banhe
+MS;Dourados;Conjunto Habitacional Terra Roxa;79840600;Rua Ramão Vital Viana
+DF;Brasília;Park Way;71746004;SMPW Quadra 29 Conjunto 4
+MG;Uberlândia;Jardim Holanda;38412325;Avenida Palestina - até 1013 - lado ímpar
+SP;Campinas;Chácara Bela Vista;13092855;Rua Wandeck Freire Júnior
+SP;Guarulhos;Parque Mikail;07142410;Rua Carlos Pedro Firmo
+RN;Parnamirim;Liberdade;59155596;Rua Domingos Vital de Barros
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750000;Núcleo Rural Vargem Bonita
+MG;Janaúba;Novo Paraíso;39442073;Rua São Francisco
+DF;Brasília;Asa Norte;70750520;SEPN 510
+SP;Guarulhos;Jardim Adriana;07135090;Rua Elvira Pires de Oliveira
+SP;Assis;CDA 3;19805005;Marginal José Vital Nogueira Cobra
+DF;Brasília;Park Way;71746002;SMPW Quadra 29 Conjunto 2
+SP;Piracicaba;Vila Industrial;13412420;Rua Claudelis Aparecida Nolasco (Jardim São Vicente)
+DF;Brasília;Asa Norte;70750545;SEPN 511 Bloco E
+SP;Guarulhos;Jardim Toscana;07121310;Rua Geraldo Pereira dos Santos
+SP;Franco da Rocha;Companhia Fazenda Belém;07803130;Rua Luiz Vital Trevisan
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750070;Quadra 7
+MG;Ipatinga;Ideal;35162216;Avenida Pedro Nolasco
+DF;Brasília;Asa Norte;70750543;SEPN 511 Bloco C
+SP;Guarulhos;Jardim Santa Lídia;07142212;Rua João Paulo Piassentini
+SP;Matão;Parque Imperial;15993710;Rua Carlos Vital Olson
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750100;Quadra 10
+MG;Janaúba;Cerâmica;39442348;Rua Corinto
+DF;Brasília;Asa Norte;70750516;SCLRN 709 Bloco F
+SP;Guarulhos;Jardim Vida Nova;07151866;Rua Mário de Paiva Simões
+SP;Matão;Conjunto Residencial João Vital;15990724;Rua Virgílio Ballista - até 369/370
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750140;Quadra 14
+MG;Janaúba;Cerâmica;39442488;Rua Ezequiel Veríssimo da Silva
+DF;Brasília;Asa Norte;70750535;SCLRN 710 Bloco E
+SP;São Paulo;Parque Jabaquara;04355000;Avenida João Pedro Cardoso - até 299/300
+SP;Mogi Mirim;Jardim Helena;13807534;Rua Nelson Vital do Prado
+DF;Brasília;Park Way;71745702;SMPW Quadra 27 Conjunto 2
+MG;Janaúba;Boa Vista;39444076;Beco Três
+DF;Brasília;Asa Norte;70750541;SEPN 511 Bloco A
+SP;São Paulo;Jabaquara;04355001;Avenida João Pedro Cardoso - de 301/302 ao fim
+ES;Colatina;Adélia Giuberti;29702803;Rua Gervásio Vitali
+DF;Brasília;Park Way;71745802;SMPW Quadra 28 Conjunto 2
+GO;Trindade;Residencial Paineiras;75382649;Rua Serra de Maracajú
+DF;Brasília;Asa Norte;70750700;SHCGN 709
+SP;São Paulo;Saúde;04292060;Rua Doutor Luis Augusto Pereira de Queirós
+ES;Colatina;Marista;29707100;Rua Raquel Madere Vitali
+DF;Brasília;Park Way;71745800;SMPW Quadra 28
+MS;Ponta Porã;Jardim São João 1ª Seção;79903364;Rua Barão de Maracaju
+DF;Brasília;Asa Norte;70747500;CLN 308
+SP;São Paulo;Parque Jabaquara;04359020;Rua Wilson Pereira de Almeida
+MG;Pouso Alegre;Jardim São Fernando;37556503;Rua Vereador Genaro Vitale
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750506;Área Isolada 2
+MT;Rondonópolis;Jardim Eldorado II;78715283;Rua Maracaju
+DF;Brasília;Asa Norte;70750707;SHCGN 709 Bloco G
+SP;Taboão da Serra;Jardim Mirna;06790200;Rua José Paulino Almeida
+CE;Fortaleza;Lagoa Redonda;60832240;Vila Vitala
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750518;Área Isolada 6
+MT;Rondonópolis;Jardim Gramado II;78714226;Rua Maracaju
+DF;Brasília;Asa Norte;70750710;SHCGN 709 Bloco J
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994065;SHA Conjunto 4 Chácara 11
+GO;Aparecida de Goiânia;Jardim das Hortências;74946010;Rua Vitalina Carneiro
+DF;Brasília;Park Way;71745502;SMPW Quadra 25 Conjunto 2
+MT;Rondonópolis;Jardim Mirassol;78715325;Rua Maracaju
+DF;Brasília;Asa Norte;70750706;SHCGN 709 Bloco F
+CE;Fortaleza;Granja Lisboa;60540172;Rua Martins Carvalho - de 866/867 a 1819/1820
+MG;Alfenas;Centro;37130033;Rua Dona Vitalina
+DF;Brasília;Park Way;71745503;SMPW Quadra 25 Conjunto 3
+MG;Janaúba;Residencial Clarita;39444214;Rua C
+DF;Brasília;Asa Norte;70752110;SQN 109 Bloco K
+RO;Ariquemes;Setor 02;76873218;Rua Andorinhas - de 1564/1565 a 1818/1819
+SC;Biguaçu;Prado de Baixo;88160066;Servidão Dona Vitalina Juncks Muller
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750030;Quadra 3
+MG;Janaúba;Esplanada;39445171;Rua Primavera
+DF;Brasília;Asa Norte;70752530;CLN 109 Bloco C
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994140;SHA Conjunto 4 Chácara 22
+SP;Campinas;Parque São Jorge;13064804;Rua Vitalina Rosa de Oliveira
+DF;Brasília;Park Way;71745612;SMPW Quadra 26 Conjunto 12
+MG;Janaúba;Esplanada;39445192;Rua Sete
+DF;Brasília;Asa Norte;70752130;SQN 109 Bloco M
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994145;SHA Conjunto 4 Chácara 23
+SP;Paulínia;Santa Terezinha;13140790;Rua Vitalino Ferro
+DF;Brasília;Park Way;71745608;SMPW Quadra 26 Conjunto 8
+MG;Janaúba;Dente Grande;39445370;Beco Amazonas II
+DF;Brasília;Asa Norte;70752500;CLN 109
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994160;SHA Conjunto 4 Chácara 25/1
+BA;Camaçari;Barra do Jacuípe (Monte Gordo);42837524;Rua Vitalino Amorim
+ES;Cachoeiro de Itapemirim;Alto Independência;29307362;Rua Coronel Francisco Athayde
+MG;Janaúba;Planalto;39445583;Avenida Rede Elétrica
+DF;Brasília;Asa Norte;70750703;SHCGN 709 Bloco C
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994175;SHA Conjunto 4 Chácara 28
+GO;Rio Verde;Jardim Marconal;75901560;Rua Vitalina Arantes
+ES;Cachoeiro de Itapemirim;Coronel Borges;29306070;Rua Coronel Francisco Athayde
+MG;Janaúba;Santo Antônio;39447150;Rua José Cupertino Mendes
+DF;Brasília;Asa Norte;70750719;SHCGN 709 Bloco S
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994095;SHA Conjunto 4 Chácara 16B
+MG;Araxá;Odilon José Carneiro;38182060;Rua Vitalino Moreira
+ES;Serra;Manguinhos;29173008;Rua Tristão Athayde
+SP;São José dos Campos;Jardim Vale do Sol;12238000;Avenida Feira de Santana
+DF;Brasília;Asa Norte;70750738;SHCGN 710 Bloco H
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71993835;SHA Conjunto 3 Chácara 33B
+PE;Belo Jardim;COHAB-I;55158790;Rua Mestre Vitalino
+MG;Montes Claros;Todos os Santos;39400631;Avenida Professora Cota Athayde
+SP;São José dos Campos;Chácaras Pousada do Vale;12226756;Rua Absínio
+DF;Brasília;Asa Norte;70750768;SHCGN 711 Bloco H
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994245;SHA Conjunto 4 Chácara 55B
+SC;Criciúma;Catarinense;88818108;Rua Célia Vitali da Silva
+PR;Cascavel;São Cristóvão;85816530;Rua Aramis Athayde
+SP;São José dos Campos;Jardim Vale do Sol;12238020;Rua Alagoinhas
+DF;Brasília;Asa Norte;70750750;SHCGN 710 Bloco T
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994275;SHA Conjunto 4 Chácara 55H
+SP;Americana;Antônio Zanaga II;13474420;Avenida Vitalino
+PR;Curitiba;Umbará;81930658;Rua Maria de Nazareth Athayde
+SP;São José dos Campos;Chácaras Pousada do Vale;12226766;Rua Francisco Marcondes dos Santos
+DF;Brasília;Asa Norte;70752020;SQN 109 Bloco B
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994045;SHA Conjunto 4 Chácara 7
+SP;Americana;Jardim Pau Brasil;13472654;Rua Vitalina de Jesus Boraschi
+SP;Sorocaba;Parque Manchester;18056360;Rua Carlos Escobar Athayde
+SP;São José dos Campos;Conjunto Residencial Vale dos Pinheiros;12242400;Rua Guanacás
+AC;Rio Branco;Vitória;69901860;Travessa dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995045;SHA Conjunto 5 Chácara 7
+SP;Valinhos;Ponte Alta;13277654;Rua Vitaliano Pelegatti
+SP;Sorocaba;Jardim São Marcos;18056560;Rua Trajano Athayde
+SP;São José dos Campos;Chácaras Pousada do Vale;12226732;Rua Joaquim Gonçalves
+AL;Arapiraca;Massaranduba;57309776;Rua João Miguel dos Anjos
+MG;Alfenas;Centro;37130203;Rua Professor Carvalho Júnior - de 250/251 a 638/639
+SP;Votorantim;Itapeva;18117487;Avenida Vitalino Pagliato
+ES;Cachoeiro de Itapemirim;Paraíso;29304046;Rua Doutor Elviro Athayde de Freitas
+SP;São José dos Campos;Chácaras Pousada do Vale;12226734;Rua Jurubeba
+AM;Manaus;Japiim;69076240;Rua Augusto dos Anjos
+SP;Araraquara;Jardim Nova Época;14807183;Avenida Carlos Olympio Tostes - de 400/401 a 638/639
+ES;Serra;Hélio Ferraz;29160596;Rua Rachel Vitalino de Brito
+PI;Parnaíba;Igaraçu;64216867;Quadra G (Lot Altair Athayde)
+SP;São José dos Campos;Chácaras Pousada do Vale;12226731;Rua Maria Júlia Dias Veneziani
+BA;Feira de Santana;São João;44051216;Rua Noel dos Anjos
+SP;Rio Claro;Alto do Santana;13504195;Avenida 56 - de 330/331 a 638/639
+PB;Bayeux;Centro;58307220;Rua Manoel Vitalino de Melo
+SP;Birigüi;Jardim Vista Alegre;16204275;Rua Marisa Athayde Nakad
+SP;São José dos Campos;Conjunto Residencial Vale dos Pinheiros;12242390;Rua Potiguaras
+BA;Jequié;Kennedy;45201817;Rua José Carlos dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994360;SHA Conjunto 4 Chácara 65
+PE;Caruaru;Alto do Moura;55040520;Rua Centro de Recuperação Rosa de Saron (Lot Mestre Vitalino)
+AL;Maceió;Santos Dumont;57075830;Rua Capitão Ataíde
+SP;São José dos Campos;Conjunto Residencial Vale dos Pinheiros;12242360;Rua Timbiras
+CE;Fortaleza;Parangaba;60720605;Avenida Augusto dos Anjos - até 1595 - lado ímpar
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994355;SHA Conjunto 4 Chácara 64
+ES;Colatina;Fazenda Vitali;29707065;Avenida Antônio Adauto Ribeiro
+AM;Manacapuru;Morada do Sol;69402075;Beco Nilson Atayde
+SP;São José dos Campos;Chácaras Pousada do Vale;12226751;Rua Vinagreira
+CE;Fortaleza;Bonsucesso;60542164;Avenida Augusto dos Anjos - de 1052 ao fim - lado par
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994435;SHA Conjunto 4 Chácara 77
+ES;Colatina;Fazenda Vitali;29707007;Rua Baden Powel
+AM;Manaus;Mauazinho;69075630;Beco Ataide
+SP;São José dos Campos;Jardim Vale do Sol;12238180;Travessa Muritiba
+ES;Cachoeiro de Itapemirim;Alto Amarelo;29304406;Escadaria Irinea Rosa dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994430;SHA Conjunto 4 Chácara 76
+ES;Colatina;Fazenda Vitali;29707010;Rua Basílio Malavasi
+AM;Manaus;Dom Pedro I;69042551;Beco Pero de Ataíde
+SP;São Paulo;Jardim Vale do Sol;08383570;Rua Aleixo Vaquero
+ES;Serra;Guaraciaba;29164639;Rua Augusto dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995070;SHA Conjunto 5 Chácara 12A
+ES;Colatina;Fazenda Vitali;29707017;Rua Cazuza
+AM;Manaus;Petrópolis;69067141;Beco Vasco de Ataíde
+SP;São Paulo;Jardim Vale do Sol;08383620;Rua Cecília Veloso Vaquero
+ES;Viana;Nova Bethânia;29138204;Rua Batista dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994310;SHA Conjunto 4 Chácara 58B
+ES;Colatina;Fazenda Vitali;29707039;Rua Florença
+AP;Macapá;Central;68900095;Avenida Ataíde Teive - até 2099/2100
+SP;Valinhos;Vale Verde;13279178;Rua Antônio Martelli
+ES;Vila Velha;Planalto;29118345;Rua Augusta dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994295;SHA Conjunto 4 Chácara 57A
+ES;Colatina;Fazenda Vitali;29707006;Rua Floripedes Pimentel
+CE;Fortaleza;Jardim das Oliveiras;60821420;Rua Desembargador Feliciano de Ataíde
+SP;Valinhos;Vale Verde;13279014;Rua José de Oliveira (Zé Baiano)
+ES;Vitória;Gurigica;29046104;Beco dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994330;SHA Conjunto 4 Chácara 59B
+ES;Colatina;Fazenda Vitali;29707063;Rua João Manoel Meneghelli
+CE;Fortaleza;Messejana;60841395;Rua Vasco de Athaide - até 1437/1438
+SP;Valinhos;Vale Verde;13279154;Rua José Moreira Lima
+GO;Mineiros;Residencial Canto do Serrado;75836108;Rua Ademir Rodrigues dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994460;SHA Conjunto 4 Chácara 81B
+ES;Colatina;Fazenda Vitali;29707018;Rua Laura Dalla Bernadina
+ES;Cachoeiro de Itapemirim;Coronel Borges;29306009;Ponte Francisco Athaide
+SP;Valinhos;Vale Verde;13279101;Rua Maria Lina da Silva
+GO;Mineiros;Setor Nossa Senhora Aparecida;75836666;Rua Ademir Rodrigues dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71994515;SHA Conjunto 4 Chácara 89
+ES;Colatina;Fazenda Vitali;29707012;Rua Lindalva Sperandio Schmitd
+GO;Rio Verde;Residencial Solar dos Ataídes 2ª Etapa;75909845;Avenida José Gonçalves Ataídes
+SP;Valinhos;Vale Verde;13279150;Rua Minoro Toyoda
+GO;Trindade;Setor Vale dos Sonhos;75387860;Rua Augusto dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995180;SHA Conjunto 5 Chácara 24
+ES;Colatina;Fazenda Vitali;29707033;Rua Walter Rosa
+GO;Rio Verde;Medeiros;75900018;Rua Neide Ataídes
+SP;Valinhos;Vale Verde;13279015;Rua Waldemar Salveri
+MG;Montes Claros;Centro;39400050;Rua Coronel Antônio dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995200;SHA Conjunto 5 Chácara 28
+MG;Patos de Minas;Jardim Recanto;38705248;Rua Deodato Vitalino Ribeiro
+GO;Rio Verde;Residencial Solar dos Ataídes 1ª Etapa;75909814;Rua Virgínia Gonçalves Ataídes
+SP;Valinhos;Vale Verde;13279032;Rua Wanderley Muniz
+MS;Campo Grande;Pioneiros;79070190;Rua Francisco dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995225;SHA Conjunto 5 Chácara 33
+RN;Mossoró;Bom Jesus;59635060;Rua Miguel Vitaliano Mendes
+MG;Araguari;Bosque;38446172;Rua Ataide Milani
+GO;Novo Gama;Residencial Alvorada;72863133;Quadra 215
+PA;Ananindeua;Centro;67030118;Alameda dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995235;SHA Conjunto 5 Chácara 35
+DF;Brasília;Asa Sul;70253530;CLS 207 Bloco C
+MG;Ituiutaba;Universitário;38302187;Avenida Ataíde Quirino Ribeiro - de 742 ao fim - lado par
+GO;Trindade;Parque Serra Branca;75382440;Rua 215
+PA;Belém;Águas Negras (Icoaraci);66822590;Alameda dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995245;SHA Conjunto 5 Chácara 37
+DF;Brasília;Asa Sul;70254110;SQS 208 Bloco K
+MG;Montes Claros;Cândida Câmara;39401039;Rua Francisco Versiani Athaide
+MG;Janaúba;Isaías Pereira;39447589;Rua N
+PA;Belém;São Clemente;66643860;Alameda dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995255;SHA Conjunto 5 Chácara 39
+SC;Jaraguá do Sul;Amizade;89255706;Rua 436
+MG;Montes Claros;Centro;39400017;Rua Jacinto Atayde
+MG;Janaúba;Residencial Dona Lindu;39447816;Rua Dona Tita
+PA;Belém;Tenoné;66820225;Passagem dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995265;SHA Conjunto 5 Chácara 41
+PA;Xinguara;Centro;68555043;Rua Vinícius de Moraes - de 436/437 a 798/799
+PA;Belém;Guamá;66075742;Vila Ataíde
+MG;Janaúba;Algodões;39447658;Rua E
+PA;Belém;Coqueiro;66823245;Passagem dos Anjos (Cj Maguari)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995451;SHA Conjunto 5 Chácara 109B
+PR;Cascavel;Cancelli;85811385;Avenida Guaíra - de 436 a 922 - lado par
+PB;João Pessoa;Alto do Céu;58027740;Rua Alfredo José Athaide
+MG;Juvenília;Centro;39467972;Rua Raimundo Santos 62  AC Juvenília
+PA;Belém;São Francisco (Mosqueiro);66920166;Passagem José dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995517;SHA Conjunto 5 Chácara 116B
+SC;Joinville;Atiradores;89203025;Rua Pernambuco - de 435/436 ao fim
+PI;Floriano;Matadouro;64803145;Rua Raimundo Ataíde - lado ímpar
+AM;Manaus;Centro;69020300;Rua Cândido Mariano
+PA;Belém;Coqueiro;66823222;Rua dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995405;SHA Conjunto 5 Chácara 102
+DF;Brasília;Asa Sul;70253050;SQS 207 Bloco E
+PI;Floriano;Sambaíba Velha;64803250;Travessa Raimundo Ataíde
+ES;Cariacica;Sotelândia;29140673;Travessa Mariano Firme
+PA;Belém;Parque Verde;66635580;Rua Maria dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995375;SHA Conjunto 5 Chácara 97A
+DF;Brasília;Asa Sul;70253020;SQS 207 Bloco B
+RJ;Itaguaí;São Salvador;23811620;Rua Arnaldo Athaide
+ES;Colatina;Barbados;29712520;Rua Pedro Mariano
+PA;Itaituba;Boa Esperança;68182200;Travessa José Ribeiro dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995340;SHA Conjunto 5 Chácara 93
+DF;Brasília;Asa Sul;70255000;SQS 406
+RJ;Itaguaí;Amendoeira;23811650;Rua José Arnaldo Athaide
+ES;Serra;Boa Vista II;29161005;Rua Mariano Souza Ramos
+PA;Paragominas;Presidente Juscelino;68628579;Rua Augusto Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996123;SHA Conjunto 6 Chácara 16
+DF;Brasília;Asa Sul;70255020;SQS 406 Bloco B
+RR;Boa Vista;Buritis;69309167;Avenida General Ataíde Teive - de 2781 a 3677 - lado ímpar
+ES;Vila Velha;Cidade da Barra;29124008;Rua Olegário Mariano
+PB;Campina Grande;José Pinheiro;58407485;Rua Augusto dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996130;SHA Conjunto 6 Chácara 17A
+DF;Brasília;Asa Sul;70252500;CLS 206
+RR;Boa Vista;Caimbé;69312218;Avenida General Ataíde Teive - de 3680 a 4620 - lado par
+ES;Vila Velha;Santa Inês;29108045;Rua Olegário Mariano
+PB;João Pessoa;João Paulo II;58076437;Rua Júlia Fernandes dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996127;SHA Conjunto 6 Chácara 17
+DF;Brasília;Asa Sul;70252530;CLS 206 Bloco C
+RR;Boa Vista;Tancredo Neves;69313520;Avenida General Ataíde Teive - de 4622 a 5386 - lado par
+MA;São Luís;Divinéia;65068020;Rua José Mariano
+PB;João Pessoa;Valentina de Figueiredo;58063220;Rua Manoel Pessoa dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996140;SHA Conjunto 6 Chácara 18A
+DF;Brasília;Asa Sul;70252110;SQS 206 Bloco K
+RR;Boa Vista;Asa Branca;69312242;Avenida General Ataíde Teive - de 4627 a 5393 - lado ímpar
+MA;São Luís;Sol e Mar;65068220;Rua José Mariano
+PB;João Pessoa;Ernesto Geisel;58075644;Rua Sargento Alfeu Cavalcante dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995655;SHA Conjunto 5 Chácara 136
+DF;Brasília;Asa Sul;70253070;SQS 207 Bloco G
+RR;Boa Vista;Alvorada;69317182;Avenida General Ataíde Teive - de 7291/7292 a 8607/8608
+MG;Alfenas;Centro;37130107;Rua Francisco Mariano - de 320/321 a 778/779
+PB;Santa Rita;Vila Tibiri;58300710;Rua Augusto dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995665;SHA Conjunto 5 Chácara 139
+DF;Brasília;Asa Sul;70254030;SQS 208 Bloco C
+RR;Boa Vista;Equatorial;69317334;Avenida General Ataíde Teive - de 8607/8608 a 10939/10940
+MG;Barbacena;São José;36205048;Rua Mariano Procópio
+PE;Arcoverde;São Cristóvão;56503840;Rua Julito Oliveira dos Anjos (Lot Petrópolis II)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995670;SHA Conjunto 5 Chácara 139B
+DF;Brasília;Asa Sul;70253000;SQS 207
+SC;Joinville;João Costa;89209075;Rua Ataídes Pedro Batista
+MG;Belo Horizonte;Nossa Senhora Aparecida (Aglomerado da Serra);30240082;Beco Mariano
+PE;Garanhuns;José Maria Dourado;55297790;Rua Augusto dos Anjos (Lot Jd Monte Sinai)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995640;SHA Conjunto 5 Chácara 134B
+CE;Fortaleza;Conjunto Ceará II;60532020;Rua 751
+SE;Aracaju;José Conrado de Araújo;49085050;Rua Ataíde Menezes Melo
+MG;Sete Lagoas;Santa Rita de Cássia;35700443;Rua Mariano Andreata
+PE;Recife;Arruda;52120100;Avenida Professor José dos Anjos - de 2001 a 2585 - lado ímpar
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995635;SHA Conjunto 5 Chácara 134A
+CE;Juazeiro do Norte;São José;63024540;Rua Domingos Rodrigues Barbosa (Trecho 2 - lado sul) - até 751/752
+SP;Indaiatuba;Jardim Morada do Sol;13346412;Rua Reverendo Ataíde Costa - até 199/200
+MG;Uberlândia;Distrito Industrial;38402346;Rua Lineu Anterino Mariano
+PE;Recife;Campo Grande;52040450;Avenida Professor José dos Anjos - de 2786 ao fim - lado par
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995675;SHA Conjunto 5 Chácara 140
+MG;Alfenas;Jardim Boa Esperança II;37135210;Avenida Henrique Munhoz Garcia - de 751 ao fim - lado ímpar
+SP;Indaiatuba;Jardim Morada do Sol;13346408;Rua Reverendo Ataíde Costa - de 201/202 a 599/600
+PB;Patos;Sete Casas;58705392;Rua Maria de Fátima Barreto Mariano
+PR;Cascavel;Canadá;85813464;Rua José Jorge dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995695;SHA Conjunto 5 Chácara 141C
+MG;Ituiutaba;Cristina;38301209;Rua Pedro Alves Vilela - de 750/751 ao fim
+SP;Sumaré;Parque Ideal (Nova Veneza);13178477;Rua Athaide Hoffman
+PE;Gravatá;Gravatá Centro;55641258;Rua Doutor José Mariano
+PR;Cianorte;Residencial Belas Artes;87202722;Rua Augusto dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71995605;SHA Conjunto 5 Chácara 130
+MG;Uberaba;Residencial Ipanema;38037744;Rua Maria Barra Borges - de 751/752 ao fim
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751040;Núcleo Rural Vargem Bonita Rua 1 Chácara 8
+PE;Olinda;Peixinhos;53220100;Rua Mariano Teixeira
+PR;Curitiba;Cidade Industrial;81270260;Rua José Pereira dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996105;SHA Conjunto 6 Chácara 14A
+PA;Ananindeua;Cidade Nova;67140722;Travessa We-82 (Cj Cidade Nova VI) - até 750/751
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751045;Núcleo Rural Vargem Bonita Rua 1 Chácara 9
+PE;Paulista;Nobre;53401631;Travessa Doutor José Mariano
+PR;Foz do Iguaçu;Loteamento Paraguaçu;85865150;Travessa Augusto dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996155;SHA Conjunto 6 Chácara 18D
+RR;Boa Vista;Mecejana;69304000;Avenida Capitão Ene Garcez - de 751 a 1983 - lado ímpar
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751100;Núcleo Rural Vargem Bonita Rua 1 Chácara 14
+PI;Teresina;Portal da Alegria;64037160;Rua Mariano de Carvalho Brito
+PR;Umuarama;Parque Dom Pedro I;87508017;Rua Augusto dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996055;SHA Conjunto 6 Chácara 7
+RS;Lajeado;Jardim do Cedro;95901486;Rua João Fernando Schneider - de 751/752 ao fim
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750557;Área Isolada 19
+PR;Curitiba;Centro;80060120;Rua Mariano Torres
+RN;Natal;Salinas;59107035;Rua Luiz Pio dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996275;SHA Conjunto 6 Chácara 403
+SC;Blumenau;Itoupavazinha;89066599;Rua Professor Jacob Ineichen - de 751/752 a 1588/1589
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750533;Área Isolada 11
+RS;Novo Hamburgo;Centro;93510040;Rua Mariano de Mattos
+RN;Natal;Felipe Camarão;59072107;Travessa dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996285;SHA Conjunto 6 Chácara 407
+SP;Avaré;Pinheiro Machado;18705420;Rua Rio Grande do Norte - até 750/751
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750530;Área Isolada 10
+SC;Jaraguá do Sul;Rau;89254160;Rua Mariano Witkowsky
+RN;Parnamirim;Nova Parnamirim;59150350;Rua Augusto dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996290;SHA Conjunto 6 Chácara 417
+SP;Jaguariúna;Nova Jaguariúna;13919390;Avenida João Antonio Nery - de 751/752 ao fim
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750575;Área Isolada 25
+SC;Rio do Sul;Eugênio Schneider;89167120;Beco Mariano João de Souza
+RO;Ji-Paraná;Rondon;76912318;Rua Aladir Marques dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996345;SHA Conjunto 6 Chácara 345
+SP;Porto Ferreira;Vila Nova;13660150;Rua Manoel Lourenço Júnior - de 751 ao fim - lado ímpar
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750527;Área Isolada 9
+SP;Bauru;Parque Bauru;17031662;Rua Sílvia Regina Mariano
+RO;Ji-Paraná;Colina Park II;76906766;Rua Márcio Sotte dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996350;SHA Conjunto 6 Chácara 463
+AM;Manacapuru;São Francisco;69400365;Avenida Ribeiro Júnior - de 751/752 a 1105/1106
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71750180;Quadra 18
+SP;Caçapava;Jardim Maria Cândida;12284120;Rua Doutor Mariano Antônio Alcântara
+RS;Caxias do Sul;São Victor COHAB;95088039;Rua dos Anjos (Lot Vitória)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996235;SHA Conjunto 6 Chácara 28
+CE;Fortaleza;Antônio Bezerra;60361010;Rua Padre Perdigão Sampaio - de 750/751 a 1122/1123
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751375;Núcleo Rural Vargem Bonita Rua 2 Chácara 53
+SP;Francisco Morato;Jardim Santo Antônio;07916020;Rua Olegário Mariano
+RS;Viamão;Tarumã;94416230;Rua dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996305;SHA Conjunto 6 Chácara 427
+MG;Araguari;Brasília;38441096;Rua Tocantins - de 751/752 ao fim
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751470;Núcleo Rural Vargem Bonita Rua 3 Chácara 41
+SP;Itapira;Loteamento Popular Istor Luppi;13973741;Rua Antônio Mariano
+SP;Caçapava;Santa Luzia;12286723;Rua Augusto dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996335;SHA Conjunto 6 Chácara 436
+MG;Ipatinga;Cariru;35160119;Avenida Japão - de 751/752 ao fim
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751275;Núcleo Rural Vargem Bonita Rua 2 Chácara 37A
+SP;Marília;Núcleo Habitacional Presidente Jânio da Silva Quadros;17511747;Rua Mariano Álvares Rios
+SP;Campinas;Jardim Melina I;13056138;Rua Antônio Xavier dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996414;SHA Conjunto 6 Chácara 517
+MT;Sinop;Jardim Jacarandás;78557698;Avenida dos Jatobás - de 257 a 751 - lado ímpar
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751315;Núcleo Rural Vargem Bonita Rua 2 Chácara 41
+SP;Piracicaba;Vila Monteiro;13418420;Travessa Olegário Mariano
+SP;Campinas;Vila João Jorge;13041317;Rua Vitoriano dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996200;SHA Conjunto 6 Chácara 22
+MT;Sinop;Residencial Montreal Park;78558157;Rua 12 - de 750/751 a 799/800
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751105;Núcleo Rural Vargem Bonita Rua 1 Chácara 15
+SP;Porto Ferreira;Jardim Bandeirantes;13664292;Rua Nadir Mariano
+SP;Hortolândia;Jardim Nova Hortolândia II;13183612;Rua José Martim dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996230;SHA Conjunto 6 Chácara 27
+MT;Sinop;Residencial Montreal Park;78558142;Rua 2 - de 750/751 a 799/800
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751115;Núcleo Rural Vargem Bonita Rua 1 Chácara 17
+SP;Valinhos;Vila Genoveva;13277412;Rua Mariano Piato
+SP;Jundiaí;Jardim Dom Bosco;13219670;Rua Augusto dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996180;SHA Conjunto 6 Chácara 20
+MT;Sinop;Residencial Montreal Park;78558152;Rua 8 - de 750/751 a 799/800
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751210;Núcleo Rural Vargem Bonita Rua 2 Chácara 25
+MG;Araxá;Novo São Geraldo;38180130;Rua Sebastião Mariano Alves
+SP;Lins;Jardim Bom Viver II;16403440;Rua Armando dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996725;SHA Conjunto 8 Chácara 31
+RS;Erechim;Centro;99700272;Avenida Quinze de Novembro - de 751 ao fim - lado ímpar
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751215;Núcleo Rural Vargem Bonita Rua 2 Chácara 26
+MG;Muriaé;Gaspar;36888097;Alameda José Mariano Machado
+CE;Quixadá;Cipó dos Anjos/Cipó dos Anjos;63925974;Rua Maria Araújo Ângelo s/n  AGC Cipó dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996735;SHA Conjunto 8 Chácara 33
+RS;Lajeado;Americano;95900564;Rua Duque de Caxias - de 751 a 959 - lado ímpar
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751365;Núcleo Rural Vargem Bonita Rua 2 Chácara 51
+MG;Patrocínio;Serra Negra;38745634;Rua José Mariano da Cunha
+AL;Arapiraca;Zélia Barbosa Rocha;57305854;Rua Ilda dos Anjos Malaquias
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996750;SHA Conjunto 8 Chácara 36
+SC;São Bento do Sul;Bela Aliança;89284070;Travessa Francisco Soehje - de 751/752 ao fim
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751555;Núcleo Rural Vargem Bonita Rua 3 Chácara 56
+MG;Três Corações;São Sebastião;37415748;Rua Vitor Mariano da Silva
+AL;Maceió;Cidade Universitária;57072786;Rua Acadêmico Allan dos Anjos Soares (Res Novo Jardim)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996730;SHA Conjunto 8 Chácara 32
+SP;Osasco;Pestana;06122160;Avenida General Pedro Pinho - de 751/752 ao fim
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751590;Núcleo Rural Vargem Bonita Rua 3 Chácara 63
+MT;Rondonópolis;Setor Residencial Granville I;78731234;Rua Adão Riograndino Mariano Salles
+CE;Horizonte;Centro;62880105;Rua Maria dos Anjos da Silva - até 349/350
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996590;SHA Conjunto 7 Chácara 16A
+SP;Penápolis;Residencial Jardim do Lago III;16305416;Avenida Santa Leonor - de 751/752 ao fim
+DF;Brasília;Núcleo Rural Vargem Bonita (Park Way);71751585;Núcleo Rural Vargem Bonita Rua 3 Chácara 62
+PB;João Pessoa;Muçumagro;58066065;Rua Luiz Mariano da Silva
+MG;Montes Claros;Centro;39400972;Rua Coronel Antônio dos Anjos, 122 Lojas 05 e 06  AGF Coronel Antônio dos Anjos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996580;SHA Conjunto 7 Chácara 15
+DF;Brasília;Asa Sul;70256000;SQS 407
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761160;Setor de Chácaras Córrego da Onça Rua A Chácara 3
+PR;Paranavaí;Residencial Geraldo Felipe;87712405;Rua Antônio Mariano Alves Barbosa
+MG;Montes Claros;Ibituruna;39408023;Rua Maria Dalva dos Anjos Medeiro
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996630;SHA Conjunto 7 Chácara 24
+DF;Brasília;Asa Sul;70256510;CLS 407 Bloco A
+CE;Fortaleza;Lagoa Redonda;60832070;Rua Honório Rangel
+SC;Joinville;Costa e Silva;89220550;Rua Pedro Mariano de Borba
+MG;Teófilo Otoni;Turma Trinta e Sete;39802454;Travessa José dos Anjos Ramos
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996650;SHA Conjunto 7 Chácara 28
+DF;Brasília;Asa Sul;70256520;CLS 407 Bloco B
+CE;Fortaleza;Manoel Dias Branco;60191050;Rua Luiz de Alencar Rangel
+SC;Joinville;Aventureiro;89226105;Servidão Pedro Mariano Furtado
+SP;Paulínia;João Aranha;13145739;Rua Albano Ferreira de Souza (Residencial Marieta Dian)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996450;SHA Conjunto 6 Chácara 541
+DF;Brasília;Asa Sul;70255090;SQS 406 Bloco I
+ES;Aracruz;Primavera;29193406;Rua Durval Barcellos Rangel
+SC;Videira;Cidade Alta;89567080;Rua Vereador Antonio Mariano Zardo
+SP;Paulínia;João Aranha;13145648;Rua Alcides Barbutti
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996390;SHA Conjunto 6 Chácara 488
+DF;Brasília;Asa Sul;70256110;SQS 407 Bloco K
+ES;Aracruz;Itaputera;29193310;Rua Marina Barcellos Rangel
+SP;Araraquara;Jardim Residencial Maggiore;14806433;Rua Manoel Carlos Mariano Filho
+SP;Paulínia;Alto de Pinheiros;13145342;Rua Alecrim (Prq Árvores)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996560;SHA Conjunto 7 Chácara 11
+DF;Brasília;Asa Sul;70256170;SQS 407 Bloco Q
+ES;Aracruz;Novo Jequitibá;29193159;Rua Marina Barcelos Rangel
+SP;Campinas;Jardim Yeda;13060617;Rua Cely Rose Mariano Tupam
+SP;Paulínia;João Aranha;13145875;Rua Alfredo Martin Filho (Residencial Campos do Conde)
+DF;Brasília;Setor Habitacional Arniqueira (Águas Claras);71996525;SHA Conjunto 7 Chácara 3
+DF;Brasília;Asa Sul;70257030;SQS 408 Bloco C
+ES;Aracruz;Itaparica;29199652;Rua Sílvia Rangel
+SP;Campinas;Núcleo Residencial Jardim Yeda II;13060102;Ruela Cely Rose Mariano Tupan
+SP;Paulínia;Parque Brasil 500;13141082;Rua Altemar Dutra (Terras do Cancioneiro)
+DF;Brasília;Setor Habitacional Samambaia (Vicente Pires);72001115;Gemétris Chácara 4
+DF;Brasília;Asa Sul;70257050;SQS 408 Bloco E
+ES;Cachoeiro de Itapemirim;Estelita Coelho Marins;29301679;Rua Rubens Rangel
+SP;Itu;Vila Nova;13309034;Rua Maestro Tristão Mariano da Costa
+SP;Paulínia;João Aranha;13145791;Rua André Luís Barbosa (Residencial São José)
+DF;Brasília;Setor Habitacional Samambaia (Vicente Pires);72001154;Rua 4C Chácara 1
+DF;Brasília;Asa Sul;70257150;SQS 408 Bloco O
+ES;Vila Velha;Guaranhuns;29103623;Praça Manoel Ferreira Rangel
+SP;Matão;Cidade Jardim;15994706;Avenida Altino Mariano de Souza (Vô Tatá)
+SP;Paulínia;Alto de Pinheiros;13145317;Rua Anézio Aparecido dos Santos
+DF;Brasília;Setor Habitacional Samambaia (Vicente Pires);72001165;Rua 4C Chácara 3
+DF;Brasília;Asa Sul;70255200;SQS 406 Bloco T
+MG;Patrocínio;Padre Eustáquio;38741191;Rua Professor Cristovam Rangel
+SP;Matão;Parque das Laranjeiras;15995314;Rua Maria Aparecida Mariano André
+SP;Paulínia;Bela Vista;13145006;Rua Angelo Perissinotto
+AM;Manaus;São Francisco;69079440;Rua Rodolfo Monteiro Maia
+DF;Brasília;Asa Sul;70272080;SQS 209 Bloco H
+PB;João Pessoa;Jaguaribe;58015730;Rua Francisco de Souza Rangel
+SP;Sorocaba;Parque Vitória Régia;18078523;Rua Odila Mariano Sandei
+SP;Paulínia;Jardim Ypê;13140538;Rua Anízio Perissinotto
+BA;Feira de Santana;Parque Ipê;44054636;Travessa Rodolfo Valentim
+DF;Brasília;Asa Sul;70272100;SQS 209 Bloco J
+PB;Patos;Novo Horizonte;58703662;Rua Luna Maria de Medeiros Rangel
+SP;Votuporanga;Belo Horizonte II;15507074;Rua Francisco Mariano dos Santos
+SP;Paulínia;Saltinho;13145561;Rua Antônia Paulina Torres (Residencial Pazetti)
+BA;Salvador;Nordeste;41905166;Travessa Deputado Rodolfo de Queiroz
+BA;Itabuna;Sarinha Alcântara;45608015;Rua Edgar Moreira Primo
+RJ;São Pedro da Aldeia;Praia do Sudoeste;28940143;Rua Vereador Elísio Rangel
+MG;Juiz de Fora;Mariano Procópio;36080040;Rua Barão de Ibertioga
+SP;Paulínia;João Aranha;13145783;Rua Antonio Argentin (Residencial São José)
+CE;Caucaia;Tabapuá Brasília;61634090;Rua Rodolfo Teófilo
+GO;Catalão;Loteamento Paineiras;75712635;Rua Orcalino Mariano da Silva Primo
+SP;Campinas;Jardim Professora Tarcília;13087396;Praça Luiz Carlos de Alvarenga Rangel
+MG;Espinosa;;39510000;
+SP;Paulínia;Saltinho;13145574;Rua Antonio Barbutti
+CE;Fortaleza;Novo Mondubim;60764210;Rua Padre Rodolfo
+MG;Itajubá;Açude;37504322;Rua Humberto Consoli Primo
+SP;Caraguatatuba;Jardim Porto Novo;11667020;Rua Paulo Bento Rangel
+AM;Itacoatiara;São Cristóvão;69103340;Avenida Antônio da Feira
+SP;Paulínia;Jardim América;13140608;Rua Antonio Benedicto Passos Almeida (Res Villa Bella))
+CE;Fortaleza;Sabiaguaba;60835342;Rua Rodolfo Borges
+MG;Itaúna;Aeroporto II;35681800;Avenida Francisco de Queiroz Primo
+AM;Manaus;Da Paz;69049130;Rua Comandante Rangel
+AM;Itacoatiara;Mamoud Amed;69101712;Avenida Dom Jorge Marskell - de 3681/3682 ao fim
+SP;Paulínia;Vila Monte Alegre;13142402;Rua Antonio Camelini
+CE;Maracanaú;Pajuçara;61932210;Rua Rodolfo Teófilo
+PE;Paulista;Vila Torres Galvão;53403140;Rua Capitão José Primo
+CE;Fortaleza;Cocó;60192320;Rua Arquiteto Reginaldo Rangel
+AM;Itacoatiara;Colônia;69100146;Avenida 15 de Novembro - até 339 - lado ímpar
+SP;Paulínia;Vila Monte Alegre;13142424;Rua Antonio Carlos Fávero
+ES;Vila Velha;São Torquato;29114050;Rua Rodolfo Amaro
+PB;João Pessoa;Água Fria;58053228;Rua José de Araújo Primo
+CE;Fortaleza;Parquelândia;60455390;Rua Francisca Rangel
+AM;Itacoatiara;Santo Antônio;69103048;Rua Miguel Jackson Pinho
+SP;Paulínia;Bonfim;13147073;Rua Antonio Carvalho Lage Filho
+MG;Ipatinga;Ideal;35162224;Rua Rodolfo Bernardeli
+PE;Paulista;Jardim Paulista;53407265;Avenida Prefeito Severino Cunha Primo
+CE;Fortaleza;Sapiranga;60833012;Rua Rangel Pestana
+AM;Itacoatiara;São Francisco;69101448;Rua Paraíso - de 2 ao fim - lado par
+SP;Paulínia;Vila Monte Alegre;13142442;Rua Antonio Quirino Silva
+MG;Teófilo Otoni;Centro;39800182;Travessa Rodolfo Augusto da Silva
+RN;Natal;Ponta Negra;59092480;Rua Miguel Godeiro Primo
+CE;Fortaleza;Amadeu Furtado;60455450;Rua Tenente Napoleão Rangel
+AM;Itacoatiara;Mamoud Amed;69101742;Rua São Braz
+SP;Paulínia;Vila Monte Alegre;13142404;Rua Antonio Ribeiro
+MG;Uberlândia;Jardim Karaíba;38411226;Alameda Rodolfo Moraes
+SP;Leme;Cidade Jardim;13614359;Avenida Jorge Hildebrand Primo
+CE;Sobral;Campo dos Velhos;62030215;Avenida José Falb Rangel
+ES;Cariacica;Alto Lage;29151080;Rua Pedro Álvares Cabral
+SP;Paulínia;Parque da Represa;13144578;Rua Antonio Roberto dos Santos
+MS;Campo Grande;Jardim Campo Nobre;79073011;Rua Padre Rodolfo Lunkenbein
+SP;Mogi Guaçu;Jardim Fantinato;13848296;Rua José Sebastião Primo
+CE;Sobral;Parque Silvana;62038060;Rua Doutor Olavo Rangel
+ES;Vila Velha;Alecrim;29118280;Rua Pedro Álvares Cabral
+SP;Paulínia;Alto de Pinheiros;13145237;Rua Antônio Rodrigues de Souza (Vida Nova)
+MS;Campo Grande;Núcleo Habitacional Universitárias;79071312;Rua Rodolfo Garcia
+CE;Crato;Sossego;63107040;Rua Professor José Primo de Brito
+ES;Cariacica;Morada de Santa Fé;29143820;Avenida Santos Rangel
+MG;Ipatinga;Bom Retiro;35160333;Rua Pedro Álvares Cabral
+SP;Paulínia;João Aranha;13145737;Rua Antonio Simões Dutra (Residencial Marieta Dian)
+PB;João Pessoa;Varadouro;58010250;Rua Rodolfo Galvão
+ES;Aracruz;Nova Conquista;29192860;Rua Primo Bitti
+ES;Cariacica;Rosa da Penha;29143325;Avenida Santos Rangel
+MG;Nova Lima;Jardim das Américas;34003214;Rua Álvares Cabral - lado ímpar
+SP;Paulínia;Betel;13148256;Rua Argemiro Bosso Filho (Residencial Paineiras)
+PB;João Pessoa;Portal do Sol;58046525;Rua Rodolfo Gomes de Lima
+RO;Ji-Paraná;Jardim dos Migrantes;76900656;Rua São Manoel - de 594/595 a 847/848
+MA;Imperatriz;Nova Imperatriz;65907435;Rua Rangel Nunes
+MG;Nova Lima;Bom Jardim;34003238;Rua Álvares Cabral - lado par
+SP;Paulínia;João Aranha;13145781;Rua Aristeu Vansan (Residencial São José)
+PE;Gravatá;Nossa Senhora das Graças;55641790;Praça Padre Rodolfo de Moraes Moreira
+SC;Brusque;Bateas;88355400;Rua Edgar Von Buettner - de 846/847 ao fim
+MA;São Luís;Parque Nice Lobão;65044455;Rua Pires Rangel
+MG;Santa Luzia;Adeodato;33015140;Avenida Álvares Cabral
+SP;Paulínia;Parque Brasil 500;13141025;Rua Aristides Perini (Loteamento Jardim Okinawa)
+PE;Gravatá;Gravatá Centro;55641345;Praça Rodolfo de Moraes
+PA;Xinguara;Setor Novo Horizonte;68556401;Rua Marechal Rondon - de 846/847 ao fim
+MG;Uberlândia;Santa Rosa;38401726;Rua Antenor Rangel
+SP;São José do Rio Preto;Jardim Laranjeiras;15044205;Rua Doutor Moacyr Cabral - até 818/819
+SP;Paulínia;Parque Brasil 500;13141030;Rua Arnaldo Piva (Loteamento Jardim Okinawa)
+PR;Curitiba;Uberaba;81580010;Rua Rodolfo Bernardelli
+AM;Manacapuru;Centro;69400338;Rua Paulo Jacob - até 169/170
+MG;Uberlândia;Santa Mônica;38408250;Rua Sebastião Rangel
+SP;São Paulo;Parque Paulistano;08080280;Rua Jacinto Cabral
+SP;Paulínia;Jardim Ypê;13141233;Rua Ataulfo Alves (Residencial Villa Lobos)
+PR;Maringá;Conjunto Habitacional Requião;87047423;Marginal Rodolfo Cremm
+AM;Manacapuru;Centro;69400240;Avenida Barão do Rio Branco - até 337/338
+MG;Unaí;Capim Branco;38610110;Rua Arminda Rangel
+MG;Sete Lagoas;Residencial Pôr do Sol;35701774;Rua Carlos Alberto Fonseca Cabral
+SP;Paulínia;João Aranha;13145682;Rua Barreto Leme
+RJ;Três Rios;Vila Isabel;25815118;Rua Rodolfo Mattoso Câmara
+AM;Manacapuru;Centro;69400248;Avenida Eduardo Ribeiro - de 851/852 a 1409/1410
+PB;Campina Grande;Monte Santo;58400754;Rua do Rangel
+RJ;Cabo Frio;Unamar (Tamoios);28928304;Travessa Cabral
+SP;Paulínia;João Aranha;13145694;Rua Benjamin Constant
+RN;Mossoró;Aeroporto;59607255;Rua Rodolfo Pongetti
+AM;Manacapuru;Centro;69400286;Boulevard Pedro Rattes - de 512 a 890 - lado par
+PE;Recife;Encruzilhada;52030090;Rua Antônio Rangel
+SP;Bauru;Jardim Santana;17020240;Rua Professor Cristino Cabral
+SP;Paulínia;Bela Vista;13145024;Rua Blecaute
+RN;Natal;Pitimbu;59069150;Rua Pintor Rodolfo de Amoedo
+AM;Manacapuru;Biribiri;69400107;Rua Modesto Barroso
+SC;Itajaí;Fazenda;88301662;Rua Doutor Francisco Rangel
+SP;Sorocaba;Habiteto - Ana Paula Eleutério;18079727;Rua Professora Elvira Mundini Cabral
+SP;Paulínia;Boa Esperança;13148050;Rua Bortolo Ferro
+RN;Parnamirim;Nova Parnamirim;59150775;Rua Rodolfo Fernandes
+AM;Manacapuru;Aparecida;69400472;Travessa Cleto Barroso
+SP;Agudos;Centro;17120037;Avenida Rangel Pestana
+PI;Teresina;Santo Antônio;64033576;Quadra 33 (Cj V V Sol)
+SP;Paulínia;João Aranha;13145827;Rua Candida Avelina Cruz (Residencial São José)
+RS;Guaíba;Ermo;92702300;Rua Rodolfo Zenker - lado par
+DF;Brasília;Guará I;71090645;Colônia Agrícola Águas Claras Chácara 54
+SP;Agudos;Vila Professor Simões;17120056;Avenida Rangel Pestana
+PI;Teresina;Bela Vista;64030860;Quadra 33 (Loteamento Bela Vista III/São Lourenço)
+SP;Paulínia;João Aranha;13145738;Rua Carlos Douglas Lombardi (Residencial Marieta Dian)
+SC;Blumenau;Itoupavazinha;89066383;Rua Radialista Rodolfo Sestrem
+GO;Valparaíso de Goiás;Ypiranga;72879331;Quadra 4 Chácara 54
+SP;Bebedouro;Vila Julieta;14700448;Viela Sizenando Rangel
+PI;Teresina;Novo Horizonte;64079520;Quadra 33 (Res. Manoel Evangelista II)
+SP;Paulínia;João Aranha;13145690;Rua Carlos Gomes
+SC;Gaspar;Margem Esquerda;89116750;Rua Rodolfo Muller
+PA;Ananindeua;Cidade Nova;67133755;Travessa We 54-B (Cj Cidade Nova VIII)
+SP;Botucatu;Centro;18602170;Rua Rangel Pestana - de 862/863 ao fim
+TO;Palmas;Jardim Taquari (Taquaralto);77063568;Quadra T 33 Avenida TLO 7
+SP;Paulínia;Jardim Ypê;13141239;Rua Cesar Guerra-Peixe (Residencial Villa Lobos)
+SC;Gaspar;Gaspar Mirim;89112520;Rua Rodolfo Vieira Pamplona - lado par
+PA;Ananindeua;Cidade Nova;67133055;Travessa WE-54 A (Cidade Nova VIII)
+SP;Cotia;São Paulo II;06706140;Rua Rangel Pestana
+TO;Palmas;Jardim Taquari (Taquaralto);77063586;Quadra T 33 Avenida TNS 8
+SP;Paulínia;Nossa Senhora Aparecida;13140574;Rua Circular
+SC;Itajaí;São Vicente;88309250;Rua Rodolfo Kucker
+PA;Ananindeua;Cidade Nova;67133370;Travessa WE-54 (Cidade Nova V)
+SP;Itatiba;Centro;13250250;Rua Rangel Pestana
+TO;Palmas;Jardim Taquari (Taquaralto);77063578;Quadra T 33 Rua LO 13
+SP;Paulínia;João Aranha;13145856;Rua Clara de Godoy Zanon (Residencial Viacava)
+SC;Jaraguá do Sul;Vila Lalau;89256255;Rua Rodolfo Wischral Neto
+PI;Teresina;Itararé;64077152;Quadra 54 (Cj Dirceu Arcoverde I)
+SP;Limeira;Jardim Nova Itália;13484405;Rua Estudante Flamínio Araújo de Castro Rangel
+TO;Palmas;Jardim Taquari (Taquaralto);77063560;Quadra T 33 Rua LO 23
+SP;Paulínia;Alto de Pinheiros;13145236;Rua Cláudia Tagliaferri Bosso (Vida Nova)
+SC;Palhoça;Jardim Eldorado;88133593;Rua Rodolfo José Ferreira
+TO;Palmas;Plano Diretor Sul;77017200;Área ALCSO 54 Avenida NS 15
+SP;Mogi Guaçu;Vila Pinheiro;13845300;Rua José Cândido Rangel
+TO;Palmas;Jardim Taquari (Taquaralto);77063540;Quadra T 33 Rua NS 18
+SP;Paulínia;Parque da Represa;13144568;Rua Daril Zarpelon
+SC;Rio do Sul;Progresso;89163652;Rua Rodolfo Odebrecht
+DF;Brasília;Vila São José (Brazlândia);72754006;Quadra 54 Conjunto F
+SP;Mogi Guaçu;Chácara do Ouro;13840294;Rua José Maria Rangel
+TO;Palmas;Jardim Taquari (Taquaralto);77063538;Quadra T 33 Rua NS 24
+SP;Paulínia;Betel;13148235;Rua Dois (Residencial Figueira Branca)
+SC;São Bento do Sul;Rio Negro;89287280;Rua Rodolfo Denk
+DF;Brasília;Vila São José (Brazlândia);72754014;Quadra 54 Conjunto N
+SP;Mogi Mirim;Parque do Estado II;13807689;Rua Intendente Querubim Cândido Rangel
+TO;Palmas;Jardim Taquari (Taquaralto);77063548;Quadra T 33 Rua NS 4
+SP;Paulínia;Jardim Ypê;13140536;Rua dos Estados - de 752 ao fim - lado par
+SC;São Bento do Sul;Cruzeiro;89286110;Rua Rodolfo Stigler
+GO;Águas Lindas de Goiás;Centro;72923106;Quadra 54
+SP;Salto Grande;Centro;19920007;Avenida Rangel Pestana
+AM;Manaus;Alvorada;69047306;Beco 33
+SP;Paulínia;Nova Paulínia;13140305;Rua Doutor João Nery
+SC;Tubarão;Oficinas;88702497;Rua Rodolfo Souza
+GO;Águas Lindas de Goiás;Condomínio solar da Barragem;72921213;Quadra 54
+SP;Santa Bárbara D'Oeste;Vila Betica;13450325;Rua Antônio Bernardo Rangel
+BA;Juazeiro;Sol Levante;48905747;Rua 33
+SP;Paulínia;Vila Monte Alegre;13142504;Rua Ederval Vedovello
+SP;Araraquara;Jardim Bounganville;14802872;Avenida Rodolfo Cesar Murad
+GO;Luziânia;Mansões de Recreio Estrela D'alva VII;72859570;Quadra 54
+SP;Porto Ferreira;Parque Residencial Porto Bello;13667208;Rua Joaquim Rangel Filho
+DF;Brasília;Taguatinga Sul (Taguatinga);72020330;QSD 33
+SP;Paulínia;Saltinho;13145553;Rua Emerson Carlos Beraldo (Residencial Pazetti)
+SP;Botucatu;Vila São Luiz;18603160;Rua Rodolfo Devide
+GO;Luziânia;Parque Industrial Mingone;72855054;Quadra 54
+ES;Vila Velha;Praia de Itaparica;29102032;Avenida Saturnino Rangel Mauro - de 022 a 780 - lado par
+SP;Itapevi;Transurb;06670020;Alameda das Bromélias
+SP;Paulínia;Alto de Pinheiros;13145297;Rua Ermelinda Lopes Vieira (Jardim Leonor)
+SP;Campinas;Dic I (Conjunto Habitacional Monsenhor Luiz Fernando Abreu);13056375;Rua Rodolfo Carlos de Lima
+GO;Novo Gama;Jardim Lago Azul;72865054;Quadra 54
+PB;Campina Grande;Três Irmãs;58423246;Rua Professor Ednaldo Rangel de Paiva
+SP;Santana de Parnaíba;Cidade Tamboré;06537420;Alameda Horizonte
+SP;Paulínia;João Aranha;13145636;Rua Euchario Despontin (Residencial Aurora)
+SP;Campinas;Jardim São José;13051170;Rua Rodolfo Panoni
+GO;Planaltina;Jardim das Palmeiras;73756554;Quadra 54
+SP;Itatiba;Centro;13250906;Rua Rangel Pestana, 131  Edifício Brasil
+SP;Santana de Parnaíba;Quintas do Ingaí;06519100;Alameda Xavante Residencial Quintas do Ingaí
+SP;Paulínia;São Domingos;13145446;Rua Fernando Argentim
+SP;Campinas;Parque Jambeiro;13042710;Rua Rodolfo Ribeiro
+GO;Valparaíso de Goiás;Parque Esplanada III;72876354;Quadra 54
+SP;Itatiba;Centro;13250905;Rua Rangel Pestana, 167  Edifício Massaretti
+SP;Sorocaba;Jardim Santa Bárbara;18053362;Rua Almir Muza Soares
+SP;Paulínia;Jardim Planalto;13145201;Rua Fontana Della Sirena (Gran Parque Hélio Miranda)
+SP;Indaiatuba;Jardim Monte Carlo;13349071;Rua Antônio Amgarten Rodolfo
+MT;Rondonópolis;Parque Sagrada Família;78735143;Rua A-54
+SP;Piracicaba;Centro;13400901;Rua Rangel Pestana, 762  UNIMEP - Universidade Metodista de Piracicaba
+SP;Sorocaba;Jardim Wanel Ville V;18057036;Rua Leonildes da Silva Soares
+SP;Paulínia;Jardim América;13140590;Rua Fornello (Res. Villa Bella)
+SP;Matão;Residencial Eudes Benassi;15993810;Avenida Rodolfo Tavares
+SC;Brusque;Volta Grande;88355645;Rua BA - 054
+SP;São Vicente;Vila Jockei Clube;11365120;Rua Doutor José Rangel de Almeida
+SP;Sorocaba;Jardim Itanguá;18056140;Rua Manoel Soares
+SP;Paulínia;Jardim América;13140580;Rua Geraldo Ballone (Condomínio Residencial Villa Bella)
+SP;Mococa;Centro;13730035;Rua Professor Rodolfo Garcia Rosa
+SC;Brusque;São Pedro;88351658;Rua SP - 054
+PA;Belém;Nazaré;66035901;Avenida Nazaré, 1355  Edifício Metrópolis
+SP;Sorocaba;Parque Esmeralda;18055730;Rua Professora Yvonne Tunis Soares
+SP;Paulínia;Nossa Senhora Aparecida;13140576;Rua Geraldo Ballone (Condomínio Residencial Villa Bella)
+SP;Mococa;Núcleo Habitacional Nenê Pereira Lima;13732350;Rua Rodolfo Jesus Pontes
+GO;Valparaíso de Goiás;Jardim Céu Azul;72871036;Rua 36 (Quadras 53 e 54)
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761285;Setor de Chácaras Córrego da Onça Rua B Chácara 3
+SP;Tatuí;Jardim Primavera;18273410;Rua José Agnaldo Soares
+SP;Paulínia;João Aranha;13145852;Rua Geraldo Pereira do Nascimento (Residencial Viacava)
+SP;Ribeirão Preto;Conjunto Habitacional Jardim das Palmeiras;14094014;Rua Rodolfo César Padilha Leite
+MG;Itajubá;Pinheirinho;37500182;Rua Prefeito Tigre Maia - de 53/54 ao fim
+BA;Jequié;Centro;45200130;Avenida Franz Gedeon - até 325/326
+SP;Tatuí;Jardim Mantovani;18275814;Rua José Soares
+SP;Paulínia;Alto de Pinheiros;13145346;Rua Guarantã (Parque das Árvores)
+SP;São Carlos;Parque Industrial;13564520;Rua Rodolfo Luporini
+BA;Ilhéus;Teresópolis;45652970;Rua Tiradentes, 54-B  AGF Tiradentes
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761340;Setor de Chácaras Córrego da Onça Rua B Chácara 14
+SP;Araraquara;Jardim Santa Júlia III;14807427;Rua José Carlos Soares da Silva
+SP;Paulínia;João Aranha;13145876;Rua Helena Argentin Canova (Residencial Campos do Conde)
+SP;São José dos Campos;Jardim Santa Inês II;12248180;Rua Rodolfo Mayer
+ES;Cariacica;Nova Rosa da Penha;29157309;Rua Cinquenta e Quatro
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761290;Setor de Chácaras Córrego da Onça Rua B Chácara 4
+SP;Atibaia;Jardim Maristela II;12947762;Rua José Euler Soares Guzzi
+SP;Paulínia;Parque da Represa;13144600;Rua Hélio Polezer Junior
+SP;Votorantim;Jardim São Lucas;18117686;Rua Rodolfo Stecker
+MA;Campestre do Maranhão;Centro;65968970;Rua Onildo Gomes 54-A  AC Campestre do Maranhão
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761310;Setor de Chácaras Córrego da Onça Rua B Chácara 8
+SP;Avaré;Chácara Elisa;18701306;Rua Mauro Soares de Oliveira
+SP;Paulínia;Parque Brasil 500;13141078;Rua Herivelto Martins (Terras do Cancioneiro)
+PR;Campo Largo;Águas Claras;83602300;Rua João Rodolfo Castagnoli
+MA;São Luís;Areinha;65032260;Rua Cinqüenta e Quatro
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761300;Setor de Chácaras Córrego da Onça Rua B Chácara 6
+SP;Campinas;Vila Formosa;13045070;Rua Olívia Soares Bicudo
+SP;Paulínia;Jardim América;13140633;Rua Holanda (Parque Residencial Jardim Europa)
+SP;São José dos Campos;Residencial São Francisco;12227865;Rua Paulo Rodolfo Aparecido
+MG;João Monlevade;Cruzeiro Celeste;35931057;Rua Cinquenta e Quatro
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761580;Setor de Chácaras Córrego da Onça Rua D Chácara 14
+SP;Franca;Parque Moema;14409185;Rua Jayme Pelizzaro Soares Galves
+SP;Paulínia;Vila Monte Alegre;13142512;Rua Inez Maria Reis
+CE;Fortaleza;Rodolfo Teófilo;60430232;Avenida Humberto Monte - até 1000 - lado par
+MG;Montes Claros;Novo Delfino;39402128;Rua Cinquenta e Quatro
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761575;Setor de Chácaras Córrego da Onça Rua D Chácara 13
+SP;Jundiaí;Retiro;13209580;Rua Horácio Soares de Oliveira Vila Vioto
+SP;Paulínia;Jardim América;13140611;Rua Iugoslávia (Parque Residencial Jardim Europa)
+CE;Fortaleza;Rodolfo Teófilo;60431210;Rua Adolfo Tavares
+MG;Teófilo Otoni;Esperança;39803253;Rua Cinquenta e Quatro
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761585;Setor de Chácaras Córrego da Onça Rua D Chácara 15
+SP;Limeira;Jardim Nossa Senhora do Amparo;13482277;Rua Doutor José Soares Brandão
+SP;Paulínia;Parque Bom Retiro;13142086;Rua Jaime Ramos de Brito
+CE;Fortaleza;Rodolfo Teófilo;60430025;Rua Antônio Martins - de 301/302 ao fim
+PE;Paulista;Maranguape II;53421310;Rua Cinquenta e Quatro
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761445;Setor de Chácaras Córrego da Onça Rua C Chácara 11
+SP;Limeira;Jardim Trevo;13484510;Rua João Rodrigues Soares Júnior
+SP;Paulínia;Bela Vista;13145032;Rua Jasper Bresler
+CE;Fortaleza;Rodolfo Teófilo;60430170;Rua Delmiro de Farias - de 1151/1152 ao fim
+RJ;Maricá;Jardim Atlântico Central (Itaipuaçu);24934215;Rua Cinquenta e Quatro - de Quadra 215 a Quadra 219
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761440;Setor de Chácaras Córrego da Onça Rua C Chácara 10
+SP;Limeira;Vila Piza;13486157;Rua Professora Maria Aparecida Soares de Luca
+SP;Paulínia;João Aranha;13145761;Rua João Bordin (Residencial São José)
+CE;Fortaleza;Rodolfo Teófilo;60430120;Rua Gustavo Braga
+RO;Ji-Paraná;Urupá;76900227;Rua Arseno Rodrigues - de 54/55 a 218/219
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761195;Setor de Chácaras Córrego da Onça Rua A Chácara 10
+SP;Piracicaba;Vila Bessy;13411098;Rua Domingos Soares de Barros
+SP;Paulínia;Jardim Fortaleza;13140044;Rua João Franco Cunha
+CE;Fortaleza;Rodolfo Teófilo;60430005;Rua José Façanha - de 231/232 ao fim
+SC;Criciúma;Linha Batista;88812845;Rua Antônio Martignago - de 54/55 ao fim
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761460;Setor de Chácaras Córrego da Onça Rua C Chácara 14
+SP;Piracicaba;São Jorge;13402726;Rua José Custódio Soares de Barros (Jardim Vitória)
+SP;Paulínia;Betel;13148153;Rua Joaquim Aricó
+CE;Fortaleza;Rodolfo Teófilo;60430355;Rua Monsenhor Furtado - de 491/492 a 1999/2000
+SP;Paulínia;Vila Monte Alegre;13142350;Travessa da Amizade - de 53/54 ao fim
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761395;Setor de Chácaras Córrego da Onça Rua C Chácara 1
+SP;Santa Bárbara D'Oeste;Chácaras Pinheirinho;13459652;Rua Antonio Soares de Andrade
+SP;Paulínia;Parque Brasil 500;13141080;Rua Joel de Almeida (Terras do Cancioneiro)
+CE;Fortaleza;Rodolfo Teófilo;60430540;Rua Porfírio Sampaio
+GO;Novo Gama;Parque Estrela Dalva VI (Pedregal);72860609;Quadra 645
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761595;Setor de Chácaras Córrego da Onça Rua D Chácara 17
+SP;São Carlos;Residencial Parque Douradinho;13568650;Rua João Paulo Soares de Barros
+SP;Paulínia;Saltinho;13145531;Rua José Armando Ferreira (Residencial Pazetti)
+CE;Fortaleza;Rodolfo Teófilo;60430690;Rua Professor João Bosco
+AP;Macapá;Central;68900910;Avenida Iracema Carvão Nunes, 645  Justiça do Trabalho da 8ª Região
+DF;Brasília;Setor de Chácaras Córrego da Onça (Núcleo Bandeirante);71761610;Setor de Chácaras Córrego da Onça Rua D Chácara 20
+SP;São José do Rio Preto;Parque Residencial João da Silva;15043600;Rua Polycarpo Soares Publio
+SP;Paulínia;João Aranha;13145660;Rua José Bonifácio
+CE;Fortaleza;Rodolfo Teófilo;60430070;Rua Tavares Iracema
+PI;Joaquim Pires;Centro;64170970;Rua Doroteu Sertão 645  AC Joaquim Pires
+DF;Brasília;Riacho Fundo I;71805124;QN 1 Conjunto 24
+SP;Sorocaba;Jardim Golden Park Residencial;18070872;Avenida Antônio Soares Aguiar
+SP;Paulínia;Betel;13148221;Rua José Bonomi
+CE;Fortaleza;Rodolfo Teófilo;60430050;Rua Valdemiro Cavalcante
+SC;São Bento do Sul;Schramm;89280680;Estrada Schramm - até 645/646
+DF;Brasília;Riacho Fundo I;71805123;QN 1 Conjunto 23
+SP;Sorocaba;Jardim Residencial Villagio Ipanema II;18072739;Avenida Antônio Soares Aguiar
+SP;Paulínia;João Aranha;13145708;Rua José do Patrocínio
+CE;Fortaleza;Rodolfo Teófilo;60430780;Travessa São Caetano
+PA;Xinguara;Centro;68555171;Rua Gorotire - até 644/645
+DF;Brasília;Riacho Fundo I;71805118;QN 1 Conjunto 18
+SP;Sorocaba;Recreio Marajoara;18070530;Rua Elisa Soares Leitão
+SP;Paulínia;Vila Monte Alegre;13142480;Rua José Furlan
+CE;Fortaleza;Rodolfo Teófilo;60430800;Vila Antônio Augusto
+RO;Porto Velho;Floresta;76806494;Rua da Fortuna - de 645/646 a 648/649
+DF;Brasília;Riacho Fundo I;71805128;QN 1 Conjunto 28
